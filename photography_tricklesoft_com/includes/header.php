@@ -20,6 +20,7 @@
     }
     ?>
   </title>
+  <link href='https://fonts.googleapis.com/css?family=Dancing Script' rel='stylesheet'>
   <link rel="stylesheet" href="../css/bootstrap.min.css">
   <link rel="stylesheet" href="../css/index.css">
   <script src="../js/jquery-3.3.1.min.js"></script>

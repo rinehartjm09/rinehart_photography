@@ -1,15 +1,16 @@
 <?php
 include 'includes/header.php'
 ?>
-<figure id="header-img-parent">
-<img id="header-img" src="./images/bridgeval2.jpg" alt="Lewiston/Clarkston Blue Bridge">
-  <figcaption>Rinehart Photography</figcaption>
-</figure>
+<div class="header-container">
+  <img id="header-img" src="./images/bridgeval2.jpg" alt="Lewiston/Clarkston Blue Bridge">
+  <div class="header-txt">
+    <h1>Rinehart Photography</h1>
+  </div>
+</div>
 <div class="container">
-
   <div class="row">
     <div class="col">
-      <h1>Rinehart Photography</h1>
+
     </div>
   </div>
 </div>

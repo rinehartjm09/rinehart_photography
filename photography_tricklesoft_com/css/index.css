@@ -1,6 +1,20 @@
-#header-img-parent{
-  position:absolute;
-}
 #header-img{
   width:100%;
+}
+.header-container{
+  position:relative;
+  text-align:center;
+  color:#fff;
+}
+.header-txt {
+  position:absolute;
+  top:75%;
+  left:50%;
+  transform:translate(-50%, -50%);
+  opacity:.6;
+}
+.header-txt h1{
+  font-family:'Dancing Script',"Times New Roman";
+  font-size:6vw;
+  text-shadow:2px 2px #000;
 }
